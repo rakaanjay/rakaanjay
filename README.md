@@ -27,8 +27,8 @@
 [![HTML](https://img.shields.io/badge/-HTML-fff?&logo=html5)](https://github.com/japarmar)
 [![CSS](http://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=007396)](https://github.com/japarmar)
 [![Javascript](http://img.shields.io/badge/-Javascript-fff?&logo=javascript)](https://github.com/japarmar)
-[![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)](https://github.com/developerJayu)
-[![Firebase](http://img.shields.io/badge/-Firebase-fff?&logo=firebase)](https://github.com/developerJayu)
+[![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)](https://github.com/japarmar)
+[![Firebase](http://img.shields.io/badge/-Firebase-fff?&logo=firebase)](https://github.com/japarmar)
 
 <p><h1>Personal Account Stats</h1></p><br>
 
