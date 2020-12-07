@@ -14,7 +14,8 @@
 - 👀 I’m looking for help with Open Source.
 - 💬 Ask me about anything, always ready to help.
 - 📫 Find me on Telegram - [Jayu](https://t.me/Halto_Tha).
-- ⚡ Fact: I am a Noobie.<hr>
+- ⚡ Fact: I am a Noobie.
+<hr>
 
 ### Technologies
 
