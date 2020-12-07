@@ -15,7 +15,6 @@
 - 💬 Ask me about anything, always ready to help.
 - 📫 Find me on Telegram - [Jayu](https://t.me/Halto_Tha).
 - ⚡ Fact: I am a Noobie.
-<hr>
 
 ### Technologies
 
@@ -25,7 +24,6 @@
 [![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin)](https://github.com/japarmar)
 [![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)](https://github.com/japarmar)
 [![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter)](https://github.com/japarmar)
-<hr>
 
 <p><h1>Personal Account Stats</h1></p><br>
 
