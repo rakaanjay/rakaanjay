@@ -18,14 +18,14 @@
 
 ### Languages & Technologies
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=pytho)](https://github.com/japarmar)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/japarmar)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/japarmar)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/japarmar)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin)](https://github.com/japarmar)
 [![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)](https://github.com/japarmar)
 [![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=232F3E)](https://github.com/japarmar)
 [![HTML](https://img.shields.io/badge/-HTML-fff?&logo=html5)](https://github.com/japarmar)
-[![CSS](http://img.shields.io/badge/-CSS-fff?&logo=css3)](https://github.com/japarmar)
+[![CSS](http://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=007396)](https://github.com/japarmar)
 [![Javascript](http://img.shields.io/badge/-Javascript-fff?&logo=javascript)](https://github.com/japarmar)
 [![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)](https://github.com/developerJayu)
 [![Firebase](http://img.shields.io/badge/-Firebase-fff?&logo=firebase)](https://github.com/developerJayu)
