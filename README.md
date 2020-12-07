@@ -18,7 +18,7 @@
 
 ### Languages & Technologies
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/japarmar)
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/japarmar)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/japarmar)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin)](https://github.com/japarmar)
