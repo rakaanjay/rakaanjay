@@ -17,6 +17,7 @@
 - ⚡ Fact: I am a Noobie.<hr>
 
 ### Technologies
+
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/japarmar)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/japarmar)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/japarmar)
