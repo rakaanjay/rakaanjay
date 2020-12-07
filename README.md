@@ -14,7 +14,16 @@
 - 👀 I’m looking for help with Open Source.
 - 💬 Ask me about anything, always ready to help.
 - 📫 Find me on Telegram - [Jayu](https://t.me/Halto_Tha).
-- ⚡ Fact: I am a Noobie.
+- ⚡ Fact: I am a Noobie.<hr>
+
+### Technologies
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)]
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)]
+[![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin)]
+[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)]
+[![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter)]
+
 
 <p><h1>Personal Account Stats</h1></p><br>
 
