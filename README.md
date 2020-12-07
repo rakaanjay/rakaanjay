@@ -17,13 +17,13 @@
 - ⚡ Fact: I am a Noobie.<hr>
 
 ### Technologies
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)]
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)]
-[![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin)]
-[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)]
-[![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter)]
-
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/japarmar)
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/japarmar)
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/japarmar)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin)](https://github.com/japarmar)
+[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)](https://github.com/japarmar)
+[![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter)](https://github.com/japarmar)
+<hr>
 
 <p><h1>Personal Account Stats</h1></p><br>
 
