@@ -16,7 +16,6 @@
 - 📫 Find me on Telegram - [Jayu](https://t.me/Halto_Tha).
 - ⚡ Fact: I am a Noobie.
 
-<img src="example.svg" width="400" height="400" alt="css-in-readme">
 
 ### Languages & Technologies
 
