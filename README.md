@@ -1,7 +1,7 @@
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![telegram badge](https://img.shields.io/badge/Jayu-30302f?style=flat&logo=telegram)](https://t.me/Halto_Tha)<br>
 [![Twitter: Jay Parmar](https://img.shields.io/twitter/follow/Jayu?style=social)](https://twitter.com/parmarjay38)<br>
 [![Github Developer Account](https://img.shields.io/github/followers/DeveloperJayu?label=developerAccount&style=social)](https://github.com/developerjayu)<br>
+[![Play_Store_Account](https://img.shields.io/badge/Play%20Store-Developer%20Jayu-brightgreen)](https://play.google.com/store/apps/developer?id=Developer%20Jayu)<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japarmar&label=personalAccount&color=blue&style=plastic" alt="Jayu" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerJayu&label=developerAccount&color=blue&style=plastic" alt="Jayu" /> </p>
@@ -13,7 +13,6 @@
 - 👬 I’m looking to collaborate on Project.
 - 👀 I’m looking for help with Open Source.
 - 💬 Ask me about anything, always ready to help.
-- 📫 Find me on Telegram - [Jayu](https://t.me/Halto_Tha).
 - ⚡ Fact: I am a Noobie.
 
 
@@ -30,6 +29,42 @@
 ![Javascript](http://img.shields.io/badge/-Javascript-fff?&logo=javascript)
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)
 ![Firebase](http://img.shields.io/badge/-Firebase-fff?&logo=firebase)
+
+
+### Internships
+
+<table border="2">
+  
+  <tr>
+    <td><b><div align="center">Company Name</b></div></td>
+    <td><b><div align="center">Technology</b></div></td>
+    <td><b><div align="center">From</b></div></td>
+    <td><b><div align="center">To</b></div></td>
+  </tr>
+  
+  <tr>
+    <td><b><div align="center">Akash Technolabs</b></div></td>
+    <td><b><div align="center">Android App Development</b></div></td>
+    <td><b><div align="center">May - 2021</b></div></td>
+    <td><b><div align="center">June - 2021</b></div></td>
+  </tr>
+  
+  <tr>
+    <td><b><div align="center">BrainyBeam Technologies</b></div></td>
+    <td><b><div align="center">Android & Flutter</b></div></td>
+    <td><b><div align="center">May - 2021</b></div></td>
+    <td><b><div align="center">June - 2021</b></div></td>
+  </tr>
+  
+  <tr>
+    <td><b><div align="center">CreArt Solutions</b></div></td>
+    <td><b><div align="center">PHP</b></div></td>
+    <td><b><div align="center">May - 2021</b></div></td>
+    <td><b><div align="center">June - 2021</b></div></td>
+  </tr>
+  
+</table>
+
 
 <p><h1>Personal Account Stats</h1></p><br>
 
