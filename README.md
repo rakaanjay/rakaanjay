@@ -1,6 +1,5 @@
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![Twitter: Jay Parmar](https://img.shields.io/twitter/follow/Jayu?style=social)](https://twitter.com/parmarjay38)<br>
-[![Github Developer Account](https://img.shields.io/github/followers/DeveloperJayu?label=developerAccount&style=social)](https://github.com/developerjayu)<br>
+[![Github Developer Account](https://img.shields.io/github/followers/Developerknsnmgnwn?label=developerAccount&style=social)](https://github.com/developerjayu)<br>
 [![Play_Store_Account](https://img.shields.io/badge/Play%20Store-Developer%20Jayu-brightgreen)](https://play.google.com/store/apps/developer?id=Developer%20Jayu)<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakaanjay&label=personalAccount&color=blue&style=plastic" alt="Jayu" /> </p>
